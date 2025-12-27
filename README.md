@@ -113,10 +113,11 @@ Wait about 5 minutes for MicroShift to initialize, then run:
 [ali_wazeer@vbox ~]$ sudo systemctl restart microshift
 ```
 
-```
 
 
-* **Stop Services:** ```bash
+
+* **Stop Services:**
+```bash
 [ali_wazeer@vbox ~]$ sudo systemctl stop microshift
 [ali_wazeer@vbox ~]$ sudo systemctl stop crio
 ```
@@ -140,6 +141,8 @@ Wait about 5 minutes for MicroShift to initialize, then run:
 ---
 
 **Happy Orchestrating!** 🥳
+
+
 <img width="1366" height="717" alt="Screenshot (883)" src="https://github.com/user-attachments/assets/ac2ed266-cc11-4f94-9916-244d0c7641ad" />
 
 <img width="1366" height="368" alt="Screenshot (884)" src="https://github.com/user-attachments/assets/d7a23f0e-bd9a-4107-af05-86e114bc20b8" />
