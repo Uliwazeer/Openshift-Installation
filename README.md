@@ -107,7 +107,8 @@ Wait about 5 minutes for MicroShift to initialize, then run:
 
 ### Management
 
-* **Restart Services:** ```bash
+* **Restart Services:**
+```bash
 [ali_wazeer@vbox ~]$ sudo systemctl restart crio
 [ali_wazeer@vbox ~]$ sudo systemctl restart microshift
 ```
@@ -121,7 +122,7 @@ Wait about 5 minutes for MicroShift to initialize, then run:
 ```
 
 
-```
+
 
 
 
